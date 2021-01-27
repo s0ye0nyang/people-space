@@ -1,0 +1,6 @@
+numpy
+pandas
+fastai.vision
+fastai.vision.widgets
+PIL
+fastbook
