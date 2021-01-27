@@ -1,6 +1,6 @@
 numpy
-pandas
-fastai.vision
-fastai.vision.widgets
-PIL
-fastbook
+pandas                        
+fastai== 2.2.5   
+Pillow==7.0.0 
+fastbook == 0.0.16
+fastbook==0.0.16 
